@@ -1,0 +1,7 @@
+# Compiled Java output
+*.class
+out/
+bin/
+
+# VS Code workspace settings
+.vscode/
